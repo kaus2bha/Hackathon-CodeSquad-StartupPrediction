@@ -12,6 +12,18 @@ A comprehensive MERN stack web application that uses machine learning to predict
 - **Secure Authentication**: JWT-based user authentication and authorization
 - **Data Visualization**: Interactive charts and graphs for insights
 
+## Demo Videos And Presentation
+
+- Demo Video
+  https://drive.google.com/file/d/1178cCWOAswfNoPFQpWAPu5ewLaOje92S/view?usp=drivesdk
+
+- Pitch Video
+  https://drive.google.com/file/d/1sfGNk-1G6r9yMPzBrl4Yt8cDWqynIT30/view?usp=drivesdk
+
+- Power Point Presentation
+  https://docs.google.com/presentation/d/1C53BOCSwgOrw6mBgTpPWXmm1OS9yj07d/edit?usp=drivesdk&ouid=113131331815429739934&rtpof=true&sd=true
+
+
 ## 🛠️ Technology Stack
 
 ### Backend
