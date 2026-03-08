@@ -22,7 +22,6 @@ import {
 import { PieChart, Pie, Cell, ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import axios from 'axios';
 import pdfService from '../services/pdfService';
-
 const PredictionResult = () => {
   const { id } = useParams();
   const [prediction, setPrediction] = useState(null);
