@@ -42,7 +42,7 @@ const Payment = () => {
       'Detailed analytics dashboard'
     ]
   };
-
+  
   const paymentMethods = [
     {
       id: 'card',
