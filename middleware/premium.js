@@ -17,9 +17,9 @@ module.exports = async function premium(req, res, next) {
     if (!active) {
       return res.status(402).json({ message: 'Premium subscription required' });
     }
-
     return next();
-  } catch (err) {
+  } 
+  catch (err) {
     return res.status(500).json({ message: 'Premium check failed' });
   }
 };
