@@ -21,7 +21,6 @@ import {
   IndianRupeeIcon
 } from 'lucide-react';
 import axios from 'axios';
-
 const PredictionForm = () => {
   const navigate = useNavigate();
   const [isLoading, setIsLoading] = useState(false);
