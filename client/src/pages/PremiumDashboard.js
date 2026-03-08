@@ -29,7 +29,6 @@ import {
 } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart as RechartsPieChart, Pie, Cell } from 'recharts';
 import axios from 'axios';
-
 const PremiumDashboard = () => {
   const location = useLocation();
   const [predictions, setPredictions] = useState([]);
