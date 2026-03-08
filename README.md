@@ -12,7 +12,7 @@ A comprehensive MERN stack web application that uses machine learning to predict
 - **Secure Authentication**: JWT-based user authentication and authorization
 - **Data Visualization**: Interactive charts and graphs for insights
 
-## Demo Videos And Presentation
+## 🎥 Demo Videos And Presentation
 
 - Demo Video
   
